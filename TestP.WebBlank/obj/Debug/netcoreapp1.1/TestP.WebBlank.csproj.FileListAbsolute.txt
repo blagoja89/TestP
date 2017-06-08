@@ -1,0 +1,9 @@
+C:\Users\Blagoja\Documents\Visual Studio 2017\Projects\TestP\TestP.WebBlank\bin\Debug\netcoreapp1.1\TestP.WebBlank.deps.json
+C:\Users\Blagoja\Documents\Visual Studio 2017\Projects\TestP\TestP.WebBlank\bin\Debug\netcoreapp1.1\TestP.WebBlank.runtimeconfig.json
+C:\Users\Blagoja\Documents\Visual Studio 2017\Projects\TestP\TestP.WebBlank\bin\Debug\netcoreapp1.1\TestP.WebBlank.runtimeconfig.dev.json
+C:\Users\Blagoja\Documents\Visual Studio 2017\Projects\TestP\TestP.WebBlank\bin\Debug\netcoreapp1.1\TestP.WebBlank.dll
+C:\Users\Blagoja\Documents\Visual Studio 2017\Projects\TestP\TestP.WebBlank\bin\Debug\netcoreapp1.1\TestP.WebBlank.pdb
+C:\Users\Blagoja\Documents\Visual Studio 2017\Projects\TestP\TestP.WebBlank\obj\Debug\netcoreapp1.1\TestP.WebBlank.csprojResolveAssemblyReference.cache
+C:\Users\Blagoja\Documents\Visual Studio 2017\Projects\TestP\TestP.WebBlank\obj\Debug\netcoreapp1.1\TestP.WebBlank.AssemblyInfo.cs
+C:\Users\Blagoja\Documents\Visual Studio 2017\Projects\TestP\TestP.WebBlank\obj\Debug\netcoreapp1.1\TestP.WebBlank.dll
+C:\Users\Blagoja\Documents\Visual Studio 2017\Projects\TestP\TestP.WebBlank\obj\Debug\netcoreapp1.1\TestP.WebBlank.pdb

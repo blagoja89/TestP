@@ -2,15 +2,37 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using TestP.WebAppDemo.Models;
 
 namespace TestP.WebAppDemo.Controllers
 {
+    [Authorize]
     public class HomeController : Controller
     {
         public IActionResult Index()
         {
-            return View();
+
+            string id = new Random().Next(0, 2).ToString();
+            var blagoja = new Human
+            {
+                FirstName = "blagoja",
+                LastName = "trajkovski",
+                Id = "0"
+            };
+            var dzevat = new Human
+            {
+                FirstName = "dzevat",
+                LastName = "ibraimi",
+                Id = "1"
+            };
+
+            if(id == "1")
+            {
+                return View(blagoja);
+            }
+            return View(dzevat);
         }
 
         public IActionResult About()

@@ -1,0 +1,9 @@
+C:\Users\Blagoja\Documents\Visual Studio 2017\Projects\TestP\TestP.WebAppDemo\bin\Debug\netcoreapp1.1\TestP.WebAppDemo.deps.json
+C:\Users\Blagoja\Documents\Visual Studio 2017\Projects\TestP\TestP.WebAppDemo\bin\Debug\netcoreapp1.1\TestP.WebAppDemo.runtimeconfig.json
+C:\Users\Blagoja\Documents\Visual Studio 2017\Projects\TestP\TestP.WebAppDemo\bin\Debug\netcoreapp1.1\TestP.WebAppDemo.runtimeconfig.dev.json
+C:\Users\Blagoja\Documents\Visual Studio 2017\Projects\TestP\TestP.WebAppDemo\bin\Debug\netcoreapp1.1\TestP.WebAppDemo.dll
+C:\Users\Blagoja\Documents\Visual Studio 2017\Projects\TestP\TestP.WebAppDemo\bin\Debug\netcoreapp1.1\TestP.WebAppDemo.pdb
+C:\Users\Blagoja\Documents\Visual Studio 2017\Projects\TestP\TestP.WebAppDemo\obj\Debug\netcoreapp1.1\TestP.WebAppDemo.csprojResolveAssemblyReference.cache
+C:\Users\Blagoja\Documents\Visual Studio 2017\Projects\TestP\TestP.WebAppDemo\obj\Debug\netcoreapp1.1\TestP.WebAppDemo.AssemblyInfo.cs
+C:\Users\Blagoja\Documents\Visual Studio 2017\Projects\TestP\TestP.WebAppDemo\obj\Debug\netcoreapp1.1\TestP.WebAppDemo.dll
+C:\Users\Blagoja\Documents\Visual Studio 2017\Projects\TestP\TestP.WebAppDemo\obj\Debug\netcoreapp1.1\TestP.WebAppDemo.pdb

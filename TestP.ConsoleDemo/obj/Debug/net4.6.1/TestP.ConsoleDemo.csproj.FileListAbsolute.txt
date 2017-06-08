@@ -1,0 +1,8 @@
+C:\Users\Blagoja\Documents\Visual Studio 2017\Projects\TestP\TestP.ConsoleDemo\bin\Debug\net4.6.1\TestP.ConsoleDemo.runtimeconfig.json
+C:\Users\Blagoja\Documents\Visual Studio 2017\Projects\TestP\TestP.ConsoleDemo\bin\Debug\net4.6.1\TestP.ConsoleDemo.runtimeconfig.dev.json
+C:\Users\Blagoja\Documents\Visual Studio 2017\Projects\TestP\TestP.ConsoleDemo\bin\Debug\net4.6.1\TestP.ConsoleDemo.exe
+C:\Users\Blagoja\Documents\Visual Studio 2017\Projects\TestP\TestP.ConsoleDemo\bin\Debug\net4.6.1\TestP.ConsoleDemo.pdb
+C:\Users\Blagoja\Documents\Visual Studio 2017\Projects\TestP\TestP.ConsoleDemo\obj\Debug\net4.6.1\TestP.ConsoleDemo.csprojResolveAssemblyReference.cache
+C:\Users\Blagoja\Documents\Visual Studio 2017\Projects\TestP\TestP.ConsoleDemo\obj\Debug\net4.6.1\TestP.ConsoleDemo.AssemblyInfo.cs
+C:\Users\Blagoja\Documents\Visual Studio 2017\Projects\TestP\TestP.ConsoleDemo\obj\Debug\net4.6.1\TestP.ConsoleDemo.exe
+C:\Users\Blagoja\Documents\Visual Studio 2017\Projects\TestP\TestP.ConsoleDemo\obj\Debug\net4.6.1\TestP.ConsoleDemo.pdb

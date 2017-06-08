@@ -1,0 +1,10 @@
+C:\Users\Blagoja\Documents\Visual Studio 2017\Projects\TestP\TestP.AuthenticationDemo\bin\Debug\netcoreapp1.1\TestP.AuthenticationDemo.deps.json
+C:\Users\Blagoja\Documents\Visual Studio 2017\Projects\TestP\TestP.AuthenticationDemo\bin\Debug\netcoreapp1.1\TestP.AuthenticationDemo.runtimeconfig.json
+C:\Users\Blagoja\Documents\Visual Studio 2017\Projects\TestP\TestP.AuthenticationDemo\bin\Debug\netcoreapp1.1\TestP.AuthenticationDemo.runtimeconfig.dev.json
+C:\Users\Blagoja\Documents\Visual Studio 2017\Projects\TestP\TestP.AuthenticationDemo\bin\Debug\netcoreapp1.1\TestP.AuthenticationDemo.dll
+C:\Users\Blagoja\Documents\Visual Studio 2017\Projects\TestP\TestP.AuthenticationDemo\bin\Debug\netcoreapp1.1\TestP.AuthenticationDemo.pdb
+C:\Users\Blagoja\Documents\Visual Studio 2017\Projects\TestP\TestP.AuthenticationDemo\obj\Debug\netcoreapp1.1\TestP.AuthenticationDemo.csprojResolveAssemblyReference.cache
+C:\Users\Blagoja\Documents\Visual Studio 2017\Projects\TestP\TestP.AuthenticationDemo\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+C:\Users\Blagoja\Documents\Visual Studio 2017\Projects\TestP\TestP.AuthenticationDemo\obj\Debug\netcoreapp1.1\TestP.AuthenticationDemo.AssemblyInfo.cs
+C:\Users\Blagoja\Documents\Visual Studio 2017\Projects\TestP\TestP.AuthenticationDemo\obj\Debug\netcoreapp1.1\TestP.AuthenticationDemo.dll
+C:\Users\Blagoja\Documents\Visual Studio 2017\Projects\TestP\TestP.AuthenticationDemo\obj\Debug\netcoreapp1.1\TestP.AuthenticationDemo.pdb
